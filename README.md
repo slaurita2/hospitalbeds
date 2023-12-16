@@ -1,3 +1,3 @@
-Este script utiliza matplotlib para crear un gráfico de barras que muestra los 10 países con más camas de hospital por 1,000 personas en 2019.
+This script uses matplotlib and pandas to create a bar chart showing the top 10 countries with the most hospital beds per 1,000 people in 2019.
 
-Información obtenida de https://data.harvestportal.org/dataset/world-bank-health-data
+Information obtained from https://data.harvestportal.org/dataset/world-bank-health-data
